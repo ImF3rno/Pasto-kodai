@@ -1,5 +1,4 @@
-import renderForm from "./modules/renderForm";
-import searchCode from "./modules/searchCode";
+import ajaxCity from "./modules/ajaxCity";
 
-renderForm();
-searchCode();
+ajaxCity();
+onchange();
